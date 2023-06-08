@@ -188,7 +188,7 @@ function generateMarkdown(data) {
 
   ## Table of Contents
   - [License](#license)
-  - [Instalation](#installation)
+  - [Installation](#installation)
   - [Usage](#usage)
   - [Contribution](#contribution)
   - [Test](#test)
@@ -210,7 +210,7 @@ function generateMarkdown(data) {
   ## Test
   ${renderInput(data.test)}
 
-  ## Badges 🏆
+  ## Badges🏆
   ${renderBadges(data.badges)}
 
   ## Features
