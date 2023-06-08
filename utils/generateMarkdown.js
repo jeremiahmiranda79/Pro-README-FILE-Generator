@@ -210,7 +210,7 @@ function generateMarkdown(data) {
   ## Test
   ${renderInput(data.test)}
 
-  ## Badges🏆
+  ## Badges
   ${renderBadges(data.badges)}
 
   ## Features
