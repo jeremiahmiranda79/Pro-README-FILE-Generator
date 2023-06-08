@@ -1,7 +1,7 @@
 # Pro-README-FILE-Generator
     
   ## License
-  ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg) 
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)] 
  
   (https://www.gnu.org/licenses/gpl-3.0)
 
@@ -25,9 +25,6 @@
   ## Usage
   Use node index to start the application in the a Bash terminal.
 
-  Watch demo here:
-  https://drive.google.com/file/d/1wQLtaeJX64CXKdZsNxG0bZj1XlHkI7Do/view
-
   ## Contribution
   I used my README.md file generator to create this README.md 😉
 
@@ -44,5 +41,3 @@
   ## Features
   TODO: Manually add you features here(for now 😉)!
   
-  Watch demo here: 
-  https://drive.google.com/file/d/1wQLtaeJX64CXKdZsNxG0bZj1XlHkI7Do/view

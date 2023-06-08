@@ -17,7 +17,7 @@ function renderLicenseBadge(license) {
       case 'none':
         return 'N/A';
       case 'Apache Liscense 2.0':
-        return '[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]';
+        return '![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)';
       case 'GNU General public License v3.0':
         return '![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)';
       case 'MIT License':
@@ -177,7 +177,7 @@ function renderBadges(badges) {
 }
 
 function generateMarkdown(data) {
-  return ` # ${renderInput(data.title)}
+  return `# ${renderInput(data.title)}
     
   ## License
   ${renderLicenseBadge(data.license)} \n 
@@ -196,7 +196,6 @@ function generateMarkdown(data) {
   - [Features](#features)
 
   ## Installation
-  ULR: \n
   Clone: https://github.com/${data.username}/${data.title}\n
   ${renderInput(data.installation)} 
 
@@ -205,7 +204,8 @@ function generateMarkdown(data) {
 
   ## Contribution
   I used my README.md file generator to create this README.md 😉\n
-  GitHub: https://github.com/jeremiahmiranda79/Pro-README-FILE-Generator
+  GitHub: https://github.com/${data.username}/${data.title}\n
+  Email: ${data.email}
 
   ## Test
   ${renderInput(data.test)}
