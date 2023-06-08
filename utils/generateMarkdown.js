@@ -204,7 +204,7 @@ function generateMarkdown(data) {
 
   ## Contribution
   I used my README.md file generator to create this README.md 😉\n
-  GitHub: https://github.com/${data.username}/${data.title}\n
+  GitHub: https://github.com/${data.username}/Pro-README-FILE-Generator\n
   Email: ${data.email}
 
   ## Test

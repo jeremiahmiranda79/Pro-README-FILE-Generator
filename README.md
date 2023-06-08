@@ -1,4 +1,4 @@
-# Pro-README-FILE-Generator
+# SVG-Logo_Maker
     
   ## License
   ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg) 
@@ -6,7 +6,7 @@
   (https://www.gnu.org/licenses/gpl-3.0)
 
   ## Description
-  As a developer I would like a program to generate a professional README file so that I can spend more time working on the software.
+  A Node.js command-line application that takes in user input to generate a logo and save it as a SVG file. The application prompts the user to select a shape, shape color, shape size, text, and text color. The file will be stored based on the named fields to allow multiple logo files.
 
   ## Table of Contents
   - [License](#license)
@@ -18,31 +18,28 @@
   - [Features](#features)
 
   ## Installation
-  Clone: https://github.com/jeremiahmiranda79/Pro-README-FILE-Generator
+  Clone: https://github.com/jeremiahmiranda79/SVG-Logo_Maker
 
-  Use npm i to install the dependancies. 
+  run `npm i` in a bash terminal to dependancies  
 
   ## Usage
-  Use node index to start the application in the a Bash terminal.
-
-  Watch demo here:
-  https://drive.google.com/file/d/1wQLtaeJX64CXKdZsNxG0bZj1XlHkI7Do/view
+  In a bash terminal use `npm run test` to run test cases. Or use `node index` to start the application
 
   ## Contribution
-  I used my README.md file generator to create this README.md 😉
+  I used my `README.md` file generator to create this `README.md` 😉
 
-  GitHub: https://github.com/jeremiahmiranda79/Pro-README-FILE-Generator
+  GitHub: https://github.com/jeremiahmiranda79/SVG-Logo_Maker
 
   Email: jeremiahmiranda79@gmail.com
 
   ## Test
-  N/A
+  To run JEST use a Bash terminal and run `npm run test`
 
-  ## Badges
+  ## Badges🏆
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
   ## Features
   TODO: Manually add you features here(for now 😉)!
+
+  View a walk through here: https://drive.google.com/file/d/1XuJDMr0xMCYskznBK0QhCvEkGUrekL0t/view
   
-  Watch demo here: 
-  https://drive.google.com/file/d/1wQLtaeJX64CXKdZsNxG0bZj1XlHkI7Do/view
